@@ -12,6 +12,7 @@ public class HelloGit {
 		System.out.println("分支添加");
 		System.out.println("修改了git");
 		int age = 13;
+		int age1 = 111;
 	}
 
 }
